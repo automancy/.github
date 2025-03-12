@@ -21,4 +21,5 @@ Visit [automancy](https://github.com/automancy/automancy) for more information!
 ---
 
 Why is it *hexagon-based*?
+
 Well because hexagons are based, duh.
