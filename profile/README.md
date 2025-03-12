@@ -1,6 +1,6 @@
 # automancy!
 
-*automancy!* is a magic-themed, hexagon-based automation game where there is no 'Conveyor Belts'.
+*automancy!* is a magic-themed, hexagon-based automation game, where there is no 'Conveyor Belts'.
 
 ---
 
